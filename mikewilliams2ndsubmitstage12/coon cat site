@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>      
+    <title>Mike's Coon Cat Site</title>
+  <link rel="stylesheet" type="text/css" href="coonstyle.css">
+  </head>
+    <body>
+      <h1 class="title"><!-- I thought the p here give the extra space.--><i><b>MIKE'S MAINE COON CAT SITE</b></i></h1>
+      <div class="image"> <img src="http://upload.wikimedia.org/wikipedia/commons/d/d3/MaineCoonSilverTabby.jpg" alt="Oops" style="width:470px;height:220px"> </div><p><!--Originally I had a form tag here but had ro remove it because it was causing errors-->Hello everyone! If you like Maine Coon Cats then this site is for you!</p>
+      <div class="text"><h2>History</h2></div><p>The ancestral origins of the Maine Coon are unknown there is only speculation and folk tales. One such folk tale involves Marie Antoinette, the Queen of France, who was executed in 1793. The story goes that before her death, Antoinette attempted to escape France with the help of Captain Samuel Clough. She loaded Clough's ship with her most prized possessions, including six of her favorite Turkish Angora cats. Although she did not make it to the United States, her pets safely reached the shores of Wiscasset, Maine, where they bred with other short-haired breeds and developed into the modern breed of the Maine Coon.
+
+Another folk tale involves Captain Charles Coon, an English seafarer who kept long-haired cats aboard his ships. Whenever Coon's ship would anchor in New England ports, the felines would exit the ship and mate with the local feral cat population. When long-haired kittens began appearing in the litters of the local cat population, they were referred to as one of "Coon's cats."
+
+A myth which is trait-based, though genetically impossible, is the idea that the modern Maine Coon descended from ancestors of semi-feral domestic cats and raccoons. This myth would account for the common color of the breed (brown tabby) and its bushy tail. Another idea is that the Maine Coon originated between the matings of domestic cats and wild bobcats, which could explain the tufts of hairs that are so commonly seen on the tips of the ears.
+
+The generally accepted theory among breeders is that the Maine Coon is descended from the pairings of local short-haired domestic cats and long-haired breeds brought overseas by English seafarers (possibly by Captain Charles Coon) or 11th-century Vikings.[9][10] The connection to the Vikings is seen in the strong resemblance of the Maine Coon to the Norwegian Forest Cat, another breed that is said to be a descendant of cats that traveled with the Vikings</p>
+  <div><img src="http://files.thecatsite.com/images/mainecoon.jpg" alt="Oops"></div>
+    
+    <div><h3> Table of contents</h3>
+   <ul>
+  <li><a href="http://www.maine-coon-cat-nation.com/maine-coon-characteristics.html">Breed Charateristics</a></li>
+  <li>Health and Maintenance</li>
+  <li>Cat Associations</li>
+    <li> Breeders</li>
+    <li> Maine Coon Cat Links</li>
+</ul></div>
+ 
+
+  </body>
+</html>
