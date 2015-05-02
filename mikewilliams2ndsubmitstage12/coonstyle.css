@@ -1,0 +1,32 @@
+.title {color: red;}
+/*
+The red title is hard on the eyes but just gave me practice. Later with Java script I will attempt to make the title scroll from  right to left.
+*/
+.image {
+    border: 2px solid;
+    padding: 20px 40px;
+    background:#294860;/*I was trying to size the image such that it was not a box I have an idea but will take more experimentation */
+  
+    border-radius: 220px;
+    
+}
+body {
+    text-align: center;
+    color: #604129;
+    background-color: #604129;
+    border-radius: 20px;
+    color: black;
+    padding: 10px;
+}
+
+
+/* I played with the color and changed it from #294860 to #604129*/
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+
+
